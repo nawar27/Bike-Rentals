@@ -27,7 +27,7 @@ I used several key tools to analyze data:
 
 # The Analysis
 
-## Loading data into DataFrame
+## 1. Loading data into DataFrame
 
 Load data from a package or library containing a dataset for the purpose of exploration, analysis, or model training.
 
@@ -132,7 +132,7 @@ df.duplicated().sum()
 
 - The dataset contains no missing values or duplicate entries.
 
-## Define Null & Alternate Hypothesis
+## 2. Define Null & Alternate Hypothesis
 
 First of all, stating Null hypothesis ($H_0$), alternative hypothesis ($H_1$), and significance level
 
